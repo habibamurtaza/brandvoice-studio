@@ -1,0 +1,7 @@
+﻿streamlit
+chatterbox-tts
+torch
+torchaudio
+pydub
+librosa
+numpy

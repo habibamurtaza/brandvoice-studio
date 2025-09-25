@@ -1,0 +1,33 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+env/
+.venv/
+.venv64/
+venv/
+*.env
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Audio / caches / large files
+*.wav
+*.mp3
+*.flac
+/voices/
+/models/
+.cache/
+.hf/
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
